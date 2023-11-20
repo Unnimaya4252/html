@@ -1,0 +1,26 @@
+#para1{
+    color:blue;
+    background-color:red;
+    padding:5px;
+    border-style: dotted;
+    margin-top:25px; margin-bottom:50px; margin-right:75px; margin-left:100px;
+    
+    } 
+    .color{
+        color:whitesmoke;
+    background-color:yellowgreen;
+    padding:5px;
+    margin-top:25px; margin-bottom:50px; margin-right:75px; margin-left:100px;
+    
+
+
+    
+
+    }
+
+    p{
+        color:blue;
+    }
+    #abc{
+    border-style: double;
+    }
